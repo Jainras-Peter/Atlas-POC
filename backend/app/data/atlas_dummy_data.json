@@ -1,0 +1,3151 @@
+{
+  "companies": [
+    {
+      "_id": "CMP001",
+      "companyId": "CMP001",
+      "name": "Apex Moto Logistics Pvt Ltd",
+      "email": "sales@cmp001.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp001.example.com",
+      "address": "Industrial Area, Chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "employees": 360,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 5200,
+      "annualTeu": 62400,
+      "annualShipments": 36400,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Singapore",
+        "India-UAE"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "motorcycles",
+        "scooters",
+        "EV two-wheelers"
+      ],
+      "commodities": [
+        "motorcycles",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "motorcycles",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Singapore",
+          "UAE"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP002",
+      "companyId": "CMP002",
+      "name": "NorthStar Motorcycle Logistics",
+      "email": "sales@cmp002.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp002.example.com",
+      "address": "Industrial Area, Delhi",
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "employees": 410,
+      "companySize": "ENTERPRISE",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 6200,
+      "annualTeu": 74400,
+      "annualShipments": 43400,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-UAE",
+        "India-Europe"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "commodities": [
+        "motorcycles",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "motorcycles",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "UAE",
+          "Germany"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP003",
+      "companyId": "CMP003",
+      "name": "Deccan Two-Wheeler Exports",
+      "email": "sales@cmp003.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp003.example.com",
+      "address": "Industrial Area, Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "employees": 305,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 4100,
+      "annualTeu": 49200,
+      "annualShipments": 28700,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Singapore"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "SUPPLIER",
+      "products": [
+        "motorcycles",
+        "EV two-wheelers"
+      ],
+      "commodities": [
+        "motorcycles",
+        "EV two-wheelers"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "motorcycles",
+          "EV two-wheelers"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Singapore"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP004",
+      "companyId": "CMP004",
+      "name": "Western Transit Bikes",
+      "email": "sales@cmp004.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp004.example.com",
+      "address": "Industrial Area, Pune",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "employees": 290,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 3800,
+      "annualTeu": 45600,
+      "annualShipments": 26600,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-UAE"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BUYER",
+      "products": [
+        "motorcycles",
+        "automotive parts"
+      ],
+      "commodities": [
+        "motorcycles",
+        "automotive parts"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "motorcycles",
+          "automotive parts"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "UAE"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP005",
+      "companyId": "CMP005",
+      "name": "Coastal EV Mobility Freight",
+      "email": "sales@cmp005.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp005.example.com",
+      "address": "Industrial Area, Kochi",
+      "city": "Kochi",
+      "state": "Kerala",
+      "country": "India",
+      "employees": 245,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 2900,
+      "annualTeu": 34800,
+      "annualShipments": 20300,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Singapore"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "EV two-wheelers",
+        "scooters"
+      ],
+      "commodities": [
+        "EV two-wheelers",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "EV two-wheelers",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Singapore"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP006",
+      "companyId": "CMP006",
+      "name": "Himalaya Auto Parts Shippers",
+      "email": "sales@cmp006.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp006.example.com",
+      "address": "Industrial Area, Chandigarh",
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "country": "India",
+      "employees": 205,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 2100,
+      "annualTeu": 25200,
+      "annualShipments": 14700,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Europe"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BUYER",
+      "products": [
+        "automotive parts",
+        "scooters"
+      ],
+      "commodities": [
+        "automotive parts",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "automotive parts",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Germany"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP007",
+      "companyId": "CMP007",
+      "name": "Bay Area Moto Hub India",
+      "email": "sales@cmp007.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp007.example.com",
+      "address": "Industrial Area, Bengaluru",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "employees": 375,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 5500,
+      "annualTeu": 66000,
+      "annualShipments": 38500,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-UAE",
+        "India-USA"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "motorcycles",
+        "scooters",
+        "EV two-wheelers"
+      ],
+      "commodities": [
+        "motorcycles",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "motorcycles",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "UAE",
+          "USA"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP008",
+      "companyId": "CMP008",
+      "name": "Ganges Cycle & Spares Logistics",
+      "email": "sales@cmp008.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp008.example.com",
+      "address": "Industrial Area, Kanpur",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "employees": 190,
+      "companySize": "MID_MARKET",
+      "industry": "Automotive Logistics",
+      "teuPerMonth": 1800,
+      "annualTeu": 21600,
+      "annualShipments": 12600,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Nepal"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "SUPPLIER",
+      "products": [
+        "bicycles",
+        "scooters"
+      ],
+      "commodities": [
+        "bicycles",
+        "scooters"
+      ],
+      "hsCodes": [
+        "8711",
+        "8714",
+        "8507"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": true,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": true,
+        "productKeywords": [
+          "bicycles",
+          "scooters"
+        ],
+        "hsCodes": [
+          "8711",
+          "8714"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Nepal"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP009",
+      "companyId": "CMP009",
+      "name": "Indus Agro Bulk Movers",
+      "email": "sales@cmp009.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp009.example.com",
+      "address": "Industrial Area, Ahmedabad",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "employees": 500,
+      "companySize": "ENTERPRISE",
+      "industry": "General Logistics",
+      "teuPerMonth": 8000,
+      "annualTeu": 96000,
+      "annualShipments": 56000,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Africa"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "grains",
+        "edible oils"
+      ],
+      "commodities": [
+        "grains",
+        "edible oils"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "grains",
+          "edible oils"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Kenya"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP010",
+      "companyId": "CMP010",
+      "name": "Silk Route Textile Freight",
+      "email": "sales@cmp010.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp010.example.com",
+      "address": "Industrial Area, Surat",
+      "city": "Surat",
+      "state": "Gujarat",
+      "country": "India",
+      "employees": 325,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 4500,
+      "annualTeu": 54000,
+      "annualShipments": 31500,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-UAE"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "SUPPLIER",
+      "products": [
+        "textiles",
+        "apparel"
+      ],
+      "commodities": [
+        "textiles",
+        "apparel"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "textiles",
+          "apparel"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "UAE"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP011",
+      "companyId": "CMP011",
+      "name": "SteelForge Heavy Cargo",
+      "email": "sales@cmp011.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp011.example.com",
+      "address": "Industrial Area, Jamshedpur",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "country": "India",
+      "employees": 460,
+      "companySize": "ENTERPRISE",
+      "industry": "General Logistics",
+      "teuPerMonth": 7200,
+      "annualTeu": 86400,
+      "annualShipments": 50400,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Europe"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "steel",
+        "machinery"
+      ],
+      "commodities": [
+        "steel",
+        "machinery"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "steel",
+          "machinery"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Belgium"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP012",
+      "companyId": "CMP012",
+      "name": "PharmaCare Cold Chain India",
+      "email": "sales@cmp012.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp012.example.com",
+      "address": "Industrial Area, Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "employees": 180,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 1600,
+      "annualTeu": 19200,
+      "annualShipments": 11200,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-USA"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BUYER",
+      "products": [
+        "pharma",
+        "vaccines"
+      ],
+      "commodities": [
+        "pharma",
+        "vaccines"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "pharma",
+          "vaccines"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "USA"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP013",
+      "companyId": "CMP013",
+      "name": "GreenChem Specialty Trade",
+      "email": "sales@cmp013.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp013.example.com",
+      "address": "Industrial Area, Vadodara",
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "country": "India",
+      "employees": 270,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 3400,
+      "annualTeu": 40800,
+      "annualShipments": 23800,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Singapore"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "chemicals"
+      ],
+      "commodities": [
+        "chemicals"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "chemicals"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Singapore"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP014",
+      "companyId": "CMP014",
+      "name": "OceanPearl Electronics",
+      "email": "sales@cmp014.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp014.example.com",
+      "address": "Industrial Area, Noida",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "employees": 345,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 4900,
+      "annualTeu": 58800,
+      "annualShipments": 34300,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-China"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BUYER",
+      "products": [
+        "electronics",
+        "batteries"
+      ],
+      "commodities": [
+        "electronics",
+        "batteries"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "electronics",
+          "batteries"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "China"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP015",
+      "companyId": "CMP015",
+      "name": "Desert Gate Auto Components",
+      "email": "sales@cmp015.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp015.example.com",
+      "address": "Industrial Area, Jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "employees": 235,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 2700,
+      "annualTeu": 32400,
+      "annualShipments": 18900,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-UAE"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "SUPPLIER",
+      "products": [
+        "automotive parts"
+      ],
+      "commodities": [
+        "automotive parts"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "automotive parts"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "UAE"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP016",
+      "companyId": "CMP016",
+      "name": "Malabar Spices Export House",
+      "email": "sales@cmp016.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp016.example.com",
+      "address": "Industrial Area, Kozhikode",
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "country": "India",
+      "employees": 210,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 2200,
+      "annualTeu": 26400,
+      "annualShipments": 15400,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Europe"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "SUPPLIER",
+      "products": [
+        "spices",
+        "tea"
+      ],
+      "commodities": [
+        "spices",
+        "tea"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "spices",
+          "tea"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Netherlands"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP017",
+      "companyId": "CMP017",
+      "name": "Metro Retail Import Co",
+      "email": "sales@cmp017.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp017.example.com",
+      "address": "Industrial Area, Mumbai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "employees": 405,
+      "companySize": "ENTERPRISE",
+      "industry": "General Logistics",
+      "teuPerMonth": 6100,
+      "annualTeu": 73200,
+      "annualShipments": 42700,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-China",
+        "India-Vietnam"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BUYER",
+      "products": [
+        "FMCG",
+        "apparel"
+      ],
+      "commodities": [
+        "FMCG",
+        "apparel"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "FMCG",
+          "apparel"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "China",
+          "Vietnam"
+        ],
+        "volumeBand": "HIGH"
+      }
+    },
+    {
+      "_id": "CMP018",
+      "companyId": "CMP018",
+      "name": "Eastern Timber Forwarders",
+      "email": "sales@cmp018.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp018.example.com",
+      "address": "Industrial Area, Guwahati",
+      "city": "Guwahati",
+      "state": "Assam",
+      "country": "India",
+      "employees": 170,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 1400,
+      "annualTeu": 16800,
+      "annualShipments": 9800,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Bangladesh"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "timber",
+        "furniture"
+      ],
+      "commodities": [
+        "timber",
+        "furniture"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "timber",
+          "furniture"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Bangladesh"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP019",
+      "companyId": "CMP019",
+      "name": "SkyBridge Air Cargo Partners",
+      "email": "sales@cmp019.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp019.example.com",
+      "address": "Industrial Area, Gurgaon",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "employees": 145,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 900,
+      "annualTeu": 10800,
+      "annualShipments": 6300,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Europe",
+        "India-USA"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "electronics",
+        "pharma"
+      ],
+      "commodities": [
+        "electronics",
+        "pharma"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "electronics",
+          "pharma"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Germany",
+          "USA"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    },
+    {
+      "_id": "CMP020",
+      "companyId": "CMP020",
+      "name": "Peninsula Container Lines Agency",
+      "email": "sales@cmp020.example.com",
+      "phone": "+91-44-4000-0000",
+      "website": "https://www.cmp020.example.com",
+      "address": "Industrial Area, Tuticorin",
+      "city": "Tuticorin",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "employees": 265,
+      "companySize": "MID_MARKET",
+      "industry": "General Logistics",
+      "teuPerMonth": 3300,
+      "annualTeu": 39600,
+      "annualShipments": 23100,
+      "preferredCarriers": [
+        "Maersk",
+        "MSC",
+        "CMA CGM"
+      ],
+      "tradeLanes": [
+        "India-Singapore"
+      ],
+      "business": [
+        "IMPORT",
+        "EXPORT"
+      ],
+      "buyerSupplierRole": "BOTH",
+      "products": [
+        "general cargo",
+        "machinery"
+      ],
+      "commodities": [
+        "general cargo",
+        "machinery"
+      ],
+      "hsCodes": [
+        "8708",
+        "7308",
+        "3004"
+      ],
+      "cargoTypes": [
+        "FCL",
+        "LCL",
+        "AIR"
+      ],
+      "preferredModes": [
+        "SEA",
+        "ROAD"
+      ],
+      "shippingRequirements": {
+        "bikeTransport": false,
+        "preferredEquipment": [
+          "20GP",
+          "40HC"
+        ],
+        "requiresDoorToDoor": true,
+        "requiresTracking": true,
+        "hazardousCargo": false,
+        "temperatureControlled": false
+      },
+      "matchSignals": {
+        "bikeTransport": false,
+        "productKeywords": [
+          "general cargo",
+          "machinery"
+        ],
+        "hsCodes": [
+          "8708",
+          "7308"
+        ],
+        "targetCountries": [
+          "India"
+        ],
+        "tradeCountries": [
+          "Singapore"
+        ],
+        "volumeBand": "MEDIUM"
+      }
+    }
+  ],
+  "customers": [
+    {
+      "_id": "CUS001",
+      "customerId": "CUS001",
+      "companyId": "CMP001",
+      "name": "Arun Kumar",
+      "email": "contact1@example.com",
+      "phone": "+91-9800000001",
+      "companyName": "Apex Moto Logistics Pvt Ltd",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 210,
+      "teu": 2600,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Tamil Nadu",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS002",
+      "customerId": "CUS002",
+      "companyId": "CMP001",
+      "name": "Priya Sharma",
+      "email": "contact2@example.com",
+      "phone": "+91-9800000002",
+      "companyName": "Apex Moto Logistics Pvt Ltd",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 220,
+      "teu": 2600,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Tamil Nadu",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS003",
+      "customerId": "CUS003",
+      "companyId": "CMP001",
+      "name": "Vikram Patel",
+      "email": "contact3@example.com",
+      "phone": "+91-9800000003",
+      "companyName": "Apex Moto Logistics Pvt Ltd",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 230,
+      "teu": 2600,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Tamil Nadu",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS004",
+      "customerId": "CUS004",
+      "companyId": "CMP002",
+      "name": "Neha Reddy",
+      "email": "contact4@example.com",
+      "phone": "+91-9800000004",
+      "companyName": "NorthStar Motorcycle Logistics",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 240,
+      "teu": 3100,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Delhi",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS005",
+      "customerId": "CUS005",
+      "companyId": "CMP002",
+      "name": "Rahul Mehta",
+      "email": "contact5@example.com",
+      "phone": "+91-9800000005",
+      "companyName": "NorthStar Motorcycle Logistics",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 250,
+      "teu": 3100,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Delhi",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS006",
+      "customerId": "CUS006",
+      "companyId": "CMP003",
+      "name": "Ananya Iyer",
+      "email": "contact6@example.com",
+      "phone": "+91-9800000006",
+      "companyName": "Deccan Two-Wheeler Exports",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "EV two-wheelers"
+      ],
+      "totalShipments": 260,
+      "teu": 2050,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Telangana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS007",
+      "customerId": "CUS007",
+      "companyId": "CMP003",
+      "name": "Suresh Nair",
+      "email": "contact7@example.com",
+      "phone": "+91-9800000007",
+      "companyName": "Deccan Two-Wheeler Exports",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "EV two-wheelers"
+      ],
+      "totalShipments": 270,
+      "teu": 2050,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Telangana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS008",
+      "customerId": "CUS008",
+      "companyId": "CMP004",
+      "name": "Kavita Joshi",
+      "email": "contact8@example.com",
+      "phone": "+91-9800000008",
+      "companyName": "Western Transit Bikes",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "automotive parts"
+      ],
+      "totalShipments": 280,
+      "teu": 1900,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Maharashtra",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS009",
+      "customerId": "CUS009",
+      "companyId": "CMP004",
+      "name": "Arun Kumar",
+      "email": "contact9@example.com",
+      "phone": "+91-9800000009",
+      "companyName": "Western Transit Bikes",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "automotive parts"
+      ],
+      "totalShipments": 290,
+      "teu": 1900,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Maharashtra",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS010",
+      "customerId": "CUS010",
+      "companyId": "CMP004",
+      "name": "Priya Sharma",
+      "email": "contact10@example.com",
+      "phone": "+91-9800000010",
+      "companyName": "Western Transit Bikes",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "automotive parts"
+      ],
+      "totalShipments": 300,
+      "teu": 1900,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Maharashtra",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS011",
+      "customerId": "CUS011",
+      "companyId": "CMP005",
+      "name": "Vikram Patel",
+      "email": "contact11@example.com",
+      "phone": "+91-9800000011",
+      "companyName": "Coastal EV Mobility Freight",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "EV two-wheelers",
+        "scooters"
+      ],
+      "totalShipments": 310,
+      "teu": 1450,
+      "cargoType": "FCL",
+      "commodity": "EV two-wheelers",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Kerala",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS012",
+      "customerId": "CUS012",
+      "companyId": "CMP005",
+      "name": "Neha Reddy",
+      "email": "contact12@example.com",
+      "phone": "+91-9800000012",
+      "companyName": "Coastal EV Mobility Freight",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "EV two-wheelers",
+        "scooters"
+      ],
+      "totalShipments": 320,
+      "teu": 1450,
+      "cargoType": "FCL",
+      "commodity": "EV two-wheelers",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Kerala",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS013",
+      "customerId": "CUS013",
+      "companyId": "CMP006",
+      "name": "Rahul Mehta",
+      "email": "contact13@example.com",
+      "phone": "+91-9800000013",
+      "companyName": "Himalaya Auto Parts Shippers",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "automotive parts",
+        "scooters"
+      ],
+      "totalShipments": 330,
+      "teu": 1050,
+      "cargoType": "FCL",
+      "commodity": "automotive parts",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Punjab",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS014",
+      "customerId": "CUS014",
+      "companyId": "CMP006",
+      "name": "Ananya Iyer",
+      "email": "contact14@example.com",
+      "phone": "+91-9800000014",
+      "companyName": "Himalaya Auto Parts Shippers",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "automotive parts",
+        "scooters"
+      ],
+      "totalShipments": 340,
+      "teu": 1050,
+      "cargoType": "FCL",
+      "commodity": "automotive parts",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Punjab",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS015",
+      "customerId": "CUS015",
+      "companyId": "CMP007",
+      "name": "Suresh Nair",
+      "email": "contact15@example.com",
+      "phone": "+91-9800000015",
+      "companyName": "Bay Area Moto Hub India",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 350,
+      "teu": 2750,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Karnataka",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS016",
+      "customerId": "CUS016",
+      "companyId": "CMP007",
+      "name": "Kavita Joshi",
+      "email": "contact16@example.com",
+      "phone": "+91-9800000016",
+      "companyName": "Bay Area Moto Hub India",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 360,
+      "teu": 2750,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Karnataka",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS017",
+      "customerId": "CUS017",
+      "companyId": "CMP007",
+      "name": "Arun Kumar",
+      "email": "contact17@example.com",
+      "phone": "+91-9800000017",
+      "companyName": "Bay Area Moto Hub India",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "motorcycles",
+        "scooters"
+      ],
+      "totalShipments": 370,
+      "teu": 2750,
+      "cargoType": "FCL",
+      "commodity": "motorcycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Karnataka",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS018",
+      "customerId": "CUS018",
+      "companyId": "CMP008",
+      "name": "Priya Sharma",
+      "email": "contact18@example.com",
+      "phone": "+91-9800000018",
+      "companyName": "Ganges Cycle & Spares Logistics",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "bicycles",
+        "scooters"
+      ],
+      "totalShipments": 380,
+      "teu": 900,
+      "cargoType": "FCL",
+      "commodity": "bicycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Uttar Pradesh",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Nepal",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS019",
+      "customerId": "CUS019",
+      "companyId": "CMP008",
+      "name": "Vikram Patel",
+      "email": "contact19@example.com",
+      "phone": "+91-9800000019",
+      "companyName": "Ganges Cycle & Spares Logistics",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "bicycles",
+        "scooters"
+      ],
+      "totalShipments": 390,
+      "teu": 900,
+      "cargoType": "FCL",
+      "commodity": "bicycles",
+      "hsCodes": [
+        "8711",
+        "8714"
+      ],
+      "region": "Uttar Pradesh",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Nepal",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS020",
+      "customerId": "CUS020",
+      "companyId": "CMP009",
+      "name": "Neha Reddy",
+      "email": "contact20@example.com",
+      "phone": "+91-9800000020",
+      "companyName": "Indus Agro Bulk Movers",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "grains",
+        "edible oils"
+      ],
+      "totalShipments": 400,
+      "teu": 4000,
+      "cargoType": "FCL",
+      "commodity": "grains",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Africa",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS021",
+      "customerId": "CUS021",
+      "companyId": "CMP009",
+      "name": "Rahul Mehta",
+      "email": "contact21@example.com",
+      "phone": "+91-9800000021",
+      "companyName": "Indus Agro Bulk Movers",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "grains",
+        "edible oils"
+      ],
+      "totalShipments": 410,
+      "teu": 4000,
+      "cargoType": "FCL",
+      "commodity": "grains",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Africa",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS022",
+      "customerId": "CUS022",
+      "companyId": "CMP010",
+      "name": "Ananya Iyer",
+      "email": "contact22@example.com",
+      "phone": "+91-9800000022",
+      "companyName": "Silk Route Textile Freight",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "textiles",
+        "apparel"
+      ],
+      "totalShipments": 420,
+      "teu": 2250,
+      "cargoType": "FCL",
+      "commodity": "textiles",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS023",
+      "customerId": "CUS023",
+      "companyId": "CMP010",
+      "name": "Suresh Nair",
+      "email": "contact23@example.com",
+      "phone": "+91-9800000023",
+      "companyName": "Silk Route Textile Freight",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "textiles",
+        "apparel"
+      ],
+      "totalShipments": 430,
+      "teu": 2250,
+      "cargoType": "FCL",
+      "commodity": "textiles",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS024",
+      "customerId": "CUS024",
+      "companyId": "CMP010",
+      "name": "Kavita Joshi",
+      "email": "contact24@example.com",
+      "phone": "+91-9800000024",
+      "companyName": "Silk Route Textile Freight",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "textiles",
+        "apparel"
+      ],
+      "totalShipments": 440,
+      "teu": 2250,
+      "cargoType": "FCL",
+      "commodity": "textiles",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS025",
+      "customerId": "CUS025",
+      "companyId": "CMP011",
+      "name": "Arun Kumar",
+      "email": "contact25@example.com",
+      "phone": "+91-9800000025",
+      "companyName": "SteelForge Heavy Cargo",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "steel",
+        "machinery"
+      ],
+      "totalShipments": 450,
+      "teu": 3600,
+      "cargoType": "FCL",
+      "commodity": "steel",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Jharkhand",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS026",
+      "customerId": "CUS026",
+      "companyId": "CMP011",
+      "name": "Priya Sharma",
+      "email": "contact26@example.com",
+      "phone": "+91-9800000026",
+      "companyName": "SteelForge Heavy Cargo",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "steel",
+        "machinery"
+      ],
+      "totalShipments": 460,
+      "teu": 3600,
+      "cargoType": "FCL",
+      "commodity": "steel",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Jharkhand",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS027",
+      "customerId": "CUS027",
+      "companyId": "CMP012",
+      "name": "Vikram Patel",
+      "email": "contact27@example.com",
+      "phone": "+91-9800000027",
+      "companyName": "PharmaCare Cold Chain India",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "pharma",
+        "vaccines"
+      ],
+      "totalShipments": 470,
+      "teu": 800,
+      "cargoType": "FCL",
+      "commodity": "pharma",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Telangana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-USA",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS028",
+      "customerId": "CUS028",
+      "companyId": "CMP012",
+      "name": "Neha Reddy",
+      "email": "contact28@example.com",
+      "phone": "+91-9800000028",
+      "companyName": "PharmaCare Cold Chain India",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "pharma",
+        "vaccines"
+      ],
+      "totalShipments": 480,
+      "teu": 800,
+      "cargoType": "FCL",
+      "commodity": "pharma",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Telangana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-USA",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS029",
+      "customerId": "CUS029",
+      "companyId": "CMP013",
+      "name": "Rahul Mehta",
+      "email": "contact29@example.com",
+      "phone": "+91-9800000029",
+      "companyName": "GreenChem Specialty Trade",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "chemicals"
+      ],
+      "totalShipments": 490,
+      "teu": 1700,
+      "cargoType": "FCL",
+      "commodity": "chemicals",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS030",
+      "customerId": "CUS030",
+      "companyId": "CMP013",
+      "name": "Ananya Iyer",
+      "email": "contact30@example.com",
+      "phone": "+91-9800000030",
+      "companyName": "GreenChem Specialty Trade",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "chemicals"
+      ],
+      "totalShipments": 500,
+      "teu": 1700,
+      "cargoType": "FCL",
+      "commodity": "chemicals",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS031",
+      "customerId": "CUS031",
+      "companyId": "CMP013",
+      "name": "Suresh Nair",
+      "email": "contact31@example.com",
+      "phone": "+91-9800000031",
+      "companyName": "GreenChem Specialty Trade",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "chemicals"
+      ],
+      "totalShipments": 510,
+      "teu": 1700,
+      "cargoType": "FCL",
+      "commodity": "chemicals",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Gujarat",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS032",
+      "customerId": "CUS032",
+      "companyId": "CMP014",
+      "name": "Kavita Joshi",
+      "email": "contact32@example.com",
+      "phone": "+91-9800000032",
+      "companyName": "OceanPearl Electronics",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "electronics",
+        "batteries"
+      ],
+      "totalShipments": 520,
+      "teu": 2450,
+      "cargoType": "FCL",
+      "commodity": "electronics",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Uttar Pradesh",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-China",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS033",
+      "customerId": "CUS033",
+      "companyId": "CMP014",
+      "name": "Arun Kumar",
+      "email": "contact33@example.com",
+      "phone": "+91-9800000033",
+      "companyName": "OceanPearl Electronics",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "electronics",
+        "batteries"
+      ],
+      "totalShipments": 530,
+      "teu": 2450,
+      "cargoType": "FCL",
+      "commodity": "electronics",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Uttar Pradesh",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-China",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS034",
+      "customerId": "CUS034",
+      "companyId": "CMP015",
+      "name": "Priya Sharma",
+      "email": "contact34@example.com",
+      "phone": "+91-9800000034",
+      "companyName": "Desert Gate Auto Components",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "automotive parts"
+      ],
+      "totalShipments": 540,
+      "teu": 1350,
+      "cargoType": "FCL",
+      "commodity": "automotive parts",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Rajasthan",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS035",
+      "customerId": "CUS035",
+      "companyId": "CMP015",
+      "name": "Vikram Patel",
+      "email": "contact35@example.com",
+      "phone": "+91-9800000035",
+      "companyName": "Desert Gate Auto Components",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "automotive parts"
+      ],
+      "totalShipments": 550,
+      "teu": 1350,
+      "cargoType": "FCL",
+      "commodity": "automotive parts",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Rajasthan",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-UAE",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS036",
+      "customerId": "CUS036",
+      "companyId": "CMP016",
+      "name": "Neha Reddy",
+      "email": "contact36@example.com",
+      "phone": "+91-9800000036",
+      "companyName": "Malabar Spices Export House",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "spices",
+        "tea"
+      ],
+      "totalShipments": 560,
+      "teu": 1100,
+      "cargoType": "FCL",
+      "commodity": "spices",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Kerala",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS037",
+      "customerId": "CUS037",
+      "companyId": "CMP016",
+      "name": "Rahul Mehta",
+      "email": "contact37@example.com",
+      "phone": "+91-9800000037",
+      "companyName": "Malabar Spices Export House",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "spices",
+        "tea"
+      ],
+      "totalShipments": 570,
+      "teu": 1100,
+      "cargoType": "FCL",
+      "commodity": "spices",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Kerala",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS038",
+      "customerId": "CUS038",
+      "companyId": "CMP016",
+      "name": "Ananya Iyer",
+      "email": "contact38@example.com",
+      "phone": "+91-9800000038",
+      "companyName": "Malabar Spices Export House",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "spices",
+        "tea"
+      ],
+      "totalShipments": 580,
+      "teu": 1100,
+      "cargoType": "FCL",
+      "commodity": "spices",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Kerala",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS039",
+      "customerId": "CUS039",
+      "companyId": "CMP017",
+      "name": "Suresh Nair",
+      "email": "contact39@example.com",
+      "phone": "+91-9800000039",
+      "companyName": "Metro Retail Import Co",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "FMCG",
+        "apparel"
+      ],
+      "totalShipments": 590,
+      "teu": 3050,
+      "cargoType": "FCL",
+      "commodity": "FMCG",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Maharashtra",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-China",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS040",
+      "customerId": "CUS040",
+      "companyId": "CMP017",
+      "name": "Kavita Joshi",
+      "email": "contact40@example.com",
+      "phone": "+91-9800000040",
+      "companyName": "Metro Retail Import Co",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "FMCG",
+        "apparel"
+      ],
+      "totalShipments": 600,
+      "teu": 3050,
+      "cargoType": "FCL",
+      "commodity": "FMCG",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Maharashtra",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-China",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS041",
+      "customerId": "CUS041",
+      "companyId": "CMP018",
+      "name": "Arun Kumar",
+      "email": "contact41@example.com",
+      "phone": "+91-9800000041",
+      "companyName": "Eastern Timber Forwarders",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "timber",
+        "furniture"
+      ],
+      "totalShipments": 610,
+      "teu": 700,
+      "cargoType": "FCL",
+      "commodity": "timber",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Assam",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Bangladesh",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS042",
+      "customerId": "CUS042",
+      "companyId": "CMP018",
+      "name": "Priya Sharma",
+      "email": "contact42@example.com",
+      "phone": "+91-9800000042",
+      "companyName": "Eastern Timber Forwarders",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "timber",
+        "furniture"
+      ],
+      "totalShipments": 620,
+      "teu": 700,
+      "cargoType": "FCL",
+      "commodity": "timber",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Assam",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Bangladesh",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS043",
+      "customerId": "CUS043",
+      "companyId": "CMP019",
+      "name": "Vikram Patel",
+      "email": "contact43@example.com",
+      "phone": "+91-9800000043",
+      "companyName": "SkyBridge Air Cargo Partners",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "electronics",
+        "pharma"
+      ],
+      "totalShipments": 630,
+      "teu": 450,
+      "cargoType": "FCL",
+      "commodity": "electronics",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Haryana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS044",
+      "customerId": "CUS044",
+      "companyId": "CMP019",
+      "name": "Neha Reddy",
+      "email": "contact44@example.com",
+      "phone": "+91-9800000044",
+      "companyName": "SkyBridge Air Cargo Partners",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "electronics",
+        "pharma"
+      ],
+      "totalShipments": 640,
+      "teu": 450,
+      "cargoType": "FCL",
+      "commodity": "electronics",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Haryana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS045",
+      "customerId": "CUS045",
+      "companyId": "CMP019",
+      "name": "Rahul Mehta",
+      "email": "contact45@example.com",
+      "phone": "+91-9800000045",
+      "companyName": "SkyBridge Air Cargo Partners",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "electronics",
+        "pharma"
+      ],
+      "totalShipments": 650,
+      "teu": 450,
+      "cargoType": "FCL",
+      "commodity": "electronics",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Haryana",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Europe",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS046",
+      "customerId": "CUS046",
+      "companyId": "CMP020",
+      "name": "Ananya Iyer",
+      "email": "contact46@example.com",
+      "phone": "+91-9800000046",
+      "companyName": "Peninsula Container Lines Agency",
+      "role": "Logistics Manager",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "general cargo",
+        "machinery"
+      ],
+      "totalShipments": 660,
+      "teu": 1650,
+      "cargoType": "FCL",
+      "commodity": "general cargo",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Tamil Nadu",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "_id": "CUS047",
+      "customerId": "CUS047",
+      "companyId": "CMP020",
+      "name": "Suresh Nair",
+      "email": "contact47@example.com",
+      "phone": "+91-9800000047",
+      "companyName": "Peninsula Container Lines Agency",
+      "role": "Procurement Lead",
+      "department": "LOGISTICS",
+      "tag": "Customer",
+      "products": [
+        "general cargo",
+        "machinery"
+      ],
+      "totalShipments": 670,
+      "teu": 1650,
+      "cargoType": "FCL",
+      "commodity": "general cargo",
+      "hsCodes": [
+        "8708",
+        "7308"
+      ],
+      "region": "Tamil Nadu",
+      "country": "India",
+      "preferredCarrier": "Maersk",
+      "tradelane": "India-Singapore",
+      "business": [
+        "IMPORT"
+      ],
+      "status": "ACTIVE"
+    }
+  ]
+}
